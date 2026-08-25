@@ -22,7 +22,7 @@
 
 # 👋 Hello World!
 
-I'm **Shekhar Kumar Karn**, a passionate **Full Stack Developer** who loves building modern web applications and exploring Artificial Intelligence, Machine Learning, and Blockchain.
+I'm **Shekhar Kumar**, a passionate **Full Stack Developer** who loves building modern web applications and exploring Artificial Intelligence, Machine Learning, and Blockchain.
 
 I enjoy solving real-world problems through code and continuously improving my development skills.
 
