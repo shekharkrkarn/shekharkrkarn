@@ -1,644 +1,1139 @@
-<div align="center">
+You are an expert GitHub Profile Designer, SVG Animation Engineer,
+UI/UX Designer and GitHub README Architect.
+
+I want you to completely redesign my GitHub profile into a premium,
+futuristic, animated developer portfolio.
+
+I am providing:
+1. A reference PDF that defines the desired animated GitHub profile
+   architecture and implementation style.
+2. My existing GitHub README/profile data.
+
+IMPORTANT:
+The existing GitHub README is the PRIMARY SOURCE for my actual
+personal/profile information.
+
+Use all information from my existing GitHub README accurately.
+
+For information that is NOT present in my existing README, you may
+GENERATE suitable profile-enrichment content using AI, but follow
+these rules:
+
+- Generated content must be realistic and consistent with my developer
+  profile.
+- Do not invent fake GitHub statistics.
+- Do not invent fake repositories.
+- Do not invent fake achievements.
+- Do not invent employment at a company.
+- Do not invent awards or certifications.
+- Do not create fake URLs.
+- Do not create fake social accounts.
+- Do not make unsupported claims about professional experience.
+- Missing non-sensitive lifestyle/interests content may be creatively
+  generated.
+- Generated content should feel natural for a young software developer.
+- Keep generated content clearly distinguishable internally from
+  source information.
+- If a generated detail is not necessary, omit it.
+
+============================================================
+SOURCE PROFILE DATA
+============================================================
+
+NAME:
+Shekhar Kumar
+
+GITHUB USERNAME:
+shekharkrkarn
+
+PRIMARY ROLE:
+Full Stack Developer
+
+PROFILE DESCRIPTION:
+A passionate Full Stack Developer who loves building modern web
+applications and exploring Artificial Intelligence, Machine Learning,
+and Blockchain.
+
+PERSONAL DESCRIPTION:
+I enjoy solving real-world problems through code and continuously
+improving my development skills.
+
+EDUCATION FROM SOURCE:
+Diploma in Computer Science
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00C6FF,100:0072FF&text=Shekhar%20Kumar%&fontColor=ffffff&fontSize=45&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI%20Enthusiast%20|%20Open%20Source%20Learner&descAlignY=58&descSize=20&animation=fadeIn"/>
+PROGRAMMING LANGUAGES:
+- Java
+- Python
+- PHP
+- JavaScript
 
-<br>
+FRONTEND:
+- HTML
+- CSS
+- React
+- Bootstrap
+- Tailwind CSS
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=💻+Full+Stack+Developer;🚀+Building+Modern+Web+Applications;🤖+AI+%7C+Machine+Learning+Enthusiast;☕+Java+%7C+Python+%7C+PHP+Developer;🌍+Always+Learning+Something+New"/>
-</a>
+BACKEND:
+- Spring Boot
+- PHP
+- Flask
 
-<br><br>
+DATABASE:
+- MySQL
 
-<img src="https://komarev.com/ghpvc/?username=shekharkrkarn&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+TOOLS:
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
+- Linux
 
-<img src="https://img.shields.io/github/followers/shekharkrkarn?style=for-the-badge"/>
+DOCUMENTED INTERESTS:
+- Artificial Intelligence
+- Machine Learning
+- Blockchain
+- Cloud Computing
 
-<img src="https://img.shields.io/github/stars/shekharkrkarn?affiliations=OWNER&style=for-the-badge"/>
+CURRENT FOCUS:
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Blockchain Technology
+- Cloud Computing
+- Open Source Contribution
 
-</div>
+DOCUMENTED CURRENT LEARNING:
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Blockchain Technology
+- React Ecosystem
+- Spring Boot
+- Docker
+- REST APIs
 
----
+============================================================
+PROJECTS FROM MY EXISTING PROFILE
+============================================================
 
-# 👋 Hello World!
+1. SMART WEATHER FORECAST SYSTEM
 
-I'm **Shekhar Kumar**, a passionate **Full Stack Developer** who loves building modern web applications and exploring Artificial Intelligence, Machine Learning, and Blockchain.
+Description:
+Real-time weather application with alerts, AQI, maps and forecasts.
 
-I enjoy solving real-world problems through code and continuously improving my development skills.
+Technology:
+Java, MySQL, HTML, CSS, JavaScript
 
----
+Repository:
+https://github.com/shekharkrkarn/Smart-Weather-Forecast-System
 
-## 🚀 About Me
 
-```java
-public class Shekhar {
+2. JARVIS AI ASSISTANT
 
-    String role = "Full Stack Developer";
+Description:
+Voice-controlled AI desktop assistant with automation.
 
-    String education = "Diploma in Computer Science";
+Technology:
+Python, AI APIs
 
-    String[] languages = {
-        "Java",
-        "Python",
-        "PHP",
-        "JavaScript"
-    };
+Repository:
+https://github.com/shekharkrkarn/JARVIS-AI
 
-    String[] frontend = {
-        "HTML",
-        "CSS",
-        "React",
-        "Bootstrap",
-        "Tailwind CSS"
-    };
 
-    String[] backend = {
-        "Spring Boot",
-        "PHP",
-        "Flask"
-    };
+3. INVENTORY MANAGEMENT SYSTEM
 
-    String database = "MySQL";
+Description:
+Stock & sales management web application.
 
-    String[] interests = {
-        "AI",
-        "Machine Learning",
-        "Blockchain",
-        "Cloud Computing"
-    };
+Technology:
+PHP, MySQL, Bootstrap
 
-    String currentFocus = "Building impactful software.";
 
-}
-```
+4. DEVELOPER PORTFOLIO
 
----
+Description:
+Responsive personal portfolio website.
 
-## 🌟 Current Focus
+Technology:
+React, Tailwind CSS
 
-- 🚀 Full Stack Development
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 🔗 Blockchain Technology
-- ☁ Cloud Computing
-- 🌍 Open Source Contribution
 
----
+============================================================
+GITHUB PROFILE
+============================================================
 
-## 🛠 Tech Stack
+GitHub:
+https://github.com/shekharkrkarn
 
-### 💻 Languages
 
-<p>
+============================================================
+CODING PROFILES
+============================================================
 
-<img src="https://skillicons.dev/icons?i=java"/>
+LeetCode:
+https://leetcode.com/u/shekharkrkarn/
 
-<img src="https://skillicons.dev/icons?i=python"/>
+HackerRank:
+https://www.hackerrank.com/profile/shekharkrkarn
 
-<img src="https://skillicons.dev/icons?i=php"/>
+CodeChef:
+https://www.codechef.com/users/shekharkrkarn
 
-<img src="https://skillicons.dev/icons?i=javascript"/>
 
-</p>
+============================================================
+SOCIAL PROFILES
+============================================================
 
----
+LinkedIn:
+https://www.linkedin.com/in/shekharkumarkarn
 
-### 🎨 Frontend
+X:
+https://x.com/Shekharkrkarn
 
-<p>
+Instagram:
+https://www.instagram.com/shekharkrkarn
 
-<img src="https://skillicons.dev/icons?i=html"/>
+Email:
+shekharkumarkarn02@gmail.com
 
-<img src="https://skillicons.dev/icons?i=css"/>
+Portfolio:
+https://developer-portfolio-1047103629900.asia-southeast1.run.app
 
-<img src="https://skillicons.dev/icons?i=react"/>
 
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
+============================================================
+SOURCE-BASED GOALS
+============================================================
 
-<img src="https://skillicons.dev/icons?i=tailwind"/>
+The existing profile documents these goals:
 
-</p>
+- Build 10+ Full Stack Projects
+- Learn Advanced Spring Boot
+- Master React
+- Learn AI & Machine Learning
+- Explore Blockchain Development
+- Contribute to Open Source
+- Reach 500+ GitHub Contributions
+- Grow as a Software Engineer
 
----
 
-### ⚙ Backend
+============================================================
+AI-GENERATED PROFILE ENRICHMENT
+============================================================
 
-<p>
+Now identify information required by the animated GitHub profile
+design that is missing from the source profile.
 
-<img src="https://skillicons.dev/icons?i=spring"/>
+Generate suitable content ONLY where necessary.
 
-<img src="https://skillicons.dev/icons?i=flask"/>
+The following categories may be intelligently generated:
 
-<img src="https://skillicons.dev/icons?i=php"/>
+1. Developer personality
+2. Short professional tagline
+3. Developer interests
+4. Non-sensitive hobbies
+5. "Currently Building" section
+6. "What I Love Building" section
+7. Short developer introduction
+8. UI-friendly captions
+9. Short motivational microcopy
+10. Visual labels for dashboard cards
+11. Developer journey timeline wording
+12. Short descriptions for technologies
+13. Short captions for projects
+14. Short footer message
 
-</p>
+Suggested generated interests may include things such as:
 
----
+- Building web applications
+- Exploring AI tools
+- Learning new technologies
+- Coding challenges
+- Open-source exploration
+- Technology experiments
+- Developer productivity
+- Software architecture
 
-### 🗄 Database
+However, choose only the interests that naturally match my existing
+profile.
 
-<p>
+For hobbies, generate realistic NON-SENSITIVE developer-friendly
+interests.
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+Do NOT generate:
+- religion
+- political preferences
+- medical information
+- relationship information
+- financial information
+- exact home address
+- sensitive personal attributes
+- fake employment history
 
-</p>
+============================================================
+OPTIONAL GENERATED LOCATION
+============================================================
 
----
+If the animated ID card visually requires a location field, DO NOT
+invent an exact address.
 
-### 🧰 Tools
+You may use a generic location only if it is appropriate and clearly
+presented as editable profile content.
 
-<p>
+Example format:
 
-<img src="https://skillicons.dev/icons?i=git"/>
+[City, State, India]
 
-<img src="https://skillicons.dev/icons?i=github"/>
+Keep it easy for me to replace manually.
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+============================================================
+OPTIONAL GENERATED COMPANY
+============================================================
 
-<img src="https://skillicons.dev/icons?i=idea"/>
+I have not provided a confirmed company/employer.
 
-<img src="https://skillicons.dev/icons?i=linux"/>
+Therefore:
 
-</p>
+DO NOT invent an employer.
 
----
-# 🚀 Featured Projects
+Instead use:
 
-<div align="center">
+"Independent Developer"
 
-| 🚀 Project | 📝 Description | ⚙️ Tech Stack |
-|------------|----------------|--------------|
-| 🌦 **Smart Weather Forecast System** | Real-time weather application with alerts, AQI, maps and forecasts | Java, MySQL, HTML, CSS, JavaScript |
-| 🤖 **JARVIS AI Assistant** | Voice-controlled AI desktop assistant with automation | Python, AI APIs |
-| 📦 **Inventory Management System** | Stock & sales management web application | PHP, MySQL, Bootstrap |
-| 🌐 **Developer Portfolio** | Responsive personal portfolio website | React, Tailwind CSS |
+or
 
-</div>
+"Student Developer"
 
----
+or
 
-# 📊 GitHub Statistics
+"Open Source Learner"
 
-<div align="center">
+Choose the wording that best fits the available source information.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shekharkrkarn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+============================================================
+OPTIONAL GENERATED HOBBIES
+============================================================
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shekharkrkarn&layout=compact&theme=tokyonight&hide_border=true"/>
+The source profile does not document personal hobbies.
 
-</div>
+Create a "DEVELOPER INTERESTS" carousel instead of pretending that
+generated hobbies are confirmed facts.
 
----
+Possible cards:
 
-# 🔥 GitHub Streak
+- Coding & Problem Solving
+- Exploring AI
+- Building Side Projects
+- Learning New Technologies
+- Open Source
+- Web Development
 
-<div align="center">
+Use these as profile-interest cards rather than making strong claims
+about private personal life.
 
-<img src="https://streak-stats.demolab.com?user=shekharkrkarn&theme=tokyonight&hide_border=true"/>
+============================================================
+MAIN DESIGN
+============================================================
 
-</div>
+Use the reference PDF as the design and implementation blueprint.
 
----
+Create a premium animated GitHub profile with:
 
-# 📈 Contribution Graph
+- Midnight glass UI
+- Futuristic developer dashboard
+- SVG animations
+- Neon cyan/violet/pink accents
+- Glassmorphism
+- Holographic UI
+- Technical HUD elements
+- Animated technology orbit
+- Animated GitHub dashboard
+- 3D contribution city
+- Animated project cards
+- Interactive-looking social cards
+- Professional developer branding
 
-<div align="center">
+The design should look like a high-end developer portfolio,
+NOT like a normal GitHub README.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shekharkrkarn&theme=tokyo-night&hide_border=true"/>
+============================================================
+COLOR SYSTEM
+============================================================
 
-</div>
+Background:
+#0d0e16
 
----
+Cyan:
+#22d3ee
 
-# 🏆 GitHub Trophies
+Violet:
+#a78bfa
 
-<div align="center">
+Pink:
+#f472b6
 
-<img src="https://github-profile-trophy.vercel.app/?username=shekharkrkarn&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+Use gradients between these colors.
 
-</div>
+Use:
 
----
+- subtle dot textures
+- thin gradient borders
+- glass panels
+- soft glow
+- rounded corners
+- futuristic typography
+- technical lines
+- subtle shadows
 
-# 📋 GitHub Summary
 
-<div align="center">
+============================================================
+PROFILE ARCHITECTURE
+============================================================
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shekharkrkarn&theme=tokyonight"/>
+Build exactly these major sections:
 
-<br><br>
+01. HERO
+02. WHAT I BUILD
+03. DEVELOPER INTERESTS
+04. TECH ORBIT
+05. HOLOGRAPHIC ID + GITHUB DASHBOARD
+06. PROJECTS
+07. 3D CONTRIBUTION CITY
+08. CODING PROFILES
+09. CONNECT FOOTER
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shekharkrkarn&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shekharkrkarn&theme=tokyonight"/>
+============================================================
+01 — HERO
+============================================================
 
-<br><br>
+Create a large animated hero.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shekharkrkarn&theme=tokyonight"/>
+Display:
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shekharkrkarn&theme=tokyonight&utcOffset=5.5"/>
+"Hi there, I'm"
 
-</div>
+"Shekhar Kumar"
 
----
+"Full Stack Developer"
 
-# 📌 Current Goals
+Add animated role cycling.
 
-```text
-🎯 2026 Goals
+Use source-supported roles:
 
-✅ Build 10+ Full Stack Projects
+- Full Stack Developer
+- Java Developer
+- Python Developer
+- AI Enthusiast
+- Blockchain Learner
+- Open Source Learner
 
-✅ Learn Spring Boot Advanced
+Create:
 
-✅ Master React
+- animated gradient name
+- typing animation
+- glowing text
+- technical HUD
+- viewfinder-style frame
+- REC indicator
+- animated scan line
+- profile status pill
+- smooth entrance animation
 
-✅ Learn AI & Machine Learning
+Add a professional one-line developer pitch.
 
-✅ Explore Blockchain Development
+Generate the pitch from my documented profile.
 
-✅ Contribute to Open Source
+Example style:
 
-✅ Reach 500+ GitHub Contributions
+"Building modern software while exploring AI,
+cloud, blockchain and open-source technologies."
 
-✅ Grow as a Software Engineer
-```
+You may improve this wording.
 
----
 
-# 💡 Developer Mindset
+============================================================
+02 — WHAT I BUILD
+============================================================
 
-> **"The best way to predict the future is to create it."**
+Create two large glass cards.
 
-> **"Code is like humor. When you have to explain it, it's bad."**
+CARD 1:
+"WHAT I BUILD"
 
-> **"Stay curious. Keep learning. Never stop building."**
+Use:
 
----
+- Full Stack Web Applications
+- Modern Web Interfaces
+- AI-Powered Applications
+- Developer Tools
+- Real-World Problem Solving
+- Automation Solutions
 
-# 📚 Currently Learning
+CARD 2:
+"CURRENTLY EXPLORING"
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- ☁ Cloud Computing
-- 🔗 Blockchain Technology
-- ⚛ React Ecosystem
-- ☕ Spring Boot
-- 🐳 Docker
-- 🔥 REST APIs
+Use:
 
----
-# 🐍 Contribution Snake
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Blockchain
+- React Ecosystem
+- Spring Boot
+- Docker
 
-<div align="center">
+Add animated capability indicators.
 
-<img src="https://raw.githubusercontent.com/shekharkrkarn/shekharkrkarn/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+Do not introduce unrelated technologies.
 
-</div>
 
-> **⚠️ Note:** This animation requires a GitHub Action. We'll set it up later.
+============================================================
+03 — DEVELOPER INTERESTS
+============================================================
 
----
+Create a carousel.
 
-# ⚡ Coding Activity
+Use documented interests and AI-generated
+non-sensitive developer interests.
 
-<div align="center">
+Cards can include:
 
-<!-- Replace YOUR_USERNAME with your WakaTime username after connecting -->
+01 — Artificial Intelligence
+02 — Machine Learning
+03 — Blockchain
+04 — Cloud Computing
+05 — Open Source
+06 — Full Stack Development
+07 — Building Side Projects
+08 — Coding & Problem Solving
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true"/>
+Use:
 
-</div>
+- Instagram-style progress indicators
+- crossfade
+- sliding transitions
+- animated circular rings
+- 4-second timing
+- smooth transitions
 
----
 
-# 💻 Development Metrics
+============================================================
+04 — TECH ORBIT
+============================================================
 
-<div align="center">
+Create a futuristic technology orbit.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shekharkrkarn&theme=tokyonight"/>
+CENTER:
+Glowing developer core.
 
-</div>
+ORBIT 1:
+Java
+Python
+JavaScript
+PHP
 
----
+ORBIT 2:
+HTML
+CSS
+React
+Bootstrap
+Tailwind CSS
 
-# 📅 GitHub Contribution Calendar
+ORBIT 3:
+Spring Boot
+Flask
+MySQL
+Git
+GitHub
+VS Code
+IntelliJ IDEA
+Linux
 
-<div align="center">
+Add technology chips categorized as:
 
-<img src="https://ghchart.rshah.org/00C6FF/shekharkrkarn" alt="Contribution Calendar"/>
+LANGUAGES
+FRONTEND
+BACKEND
+DATABASE
+TOOLS
+AI / CLOUD / BLOCKCHAIN
 
-</div>
+Use real recognizable technology icons.
 
----
+Animate icons around elliptical orbit paths.
 
-# ☕ Support My Work
+Add:
 
-<div align="center">
+- glow
+- pulse
+- orbital motion
+- sequential chip illumination
 
-If you like my work, consider giving a ⭐ to my repositories.
 
-<a href="https://github.com/shekharkrkarn">
+============================================================
+05 — HOLOGRAPHIC ID BADGE
+============================================================
 
-<img src="https://img.shields.io/badge/⭐_Star_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+Create a futuristic developer ID card.
 
-</a>
+Display:
 
-</div>
+NAME:
+Shekhar Kumar
 
----
+ROLE:
+Full Stack Developer
 
-# 🎵 Spotify
+GITHUB:
+@shekharkrkarn
 
-<div align="center">
+EDUCATION:
+Diploma in Computer Science
 
-<!-- Replace USER_ID after connecting Spotify -->
+INTERESTS:
+AI • ML • Blockchain • Cloud
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=true&background_color=121212"/>
+Do not display a fake company.
 
-</div>
+If location is unavailable, use:
 
----
+"Developer Profile"
 
-# 📺 Latest YouTube Videos
+instead of a fake location.
 
-<!-- Replace CHANNEL_ID -->
+Design:
 
-<!-- BLOG-POST-LIST:START -->
+- holographic glass
+- lanyard
+- metal clasp
+- chip
+- barcode
+- holographic sweep
+- animated border
+- travelling light
+- subtle pendulum motion
 
-Coming Soon...
 
-<!-- BLOG-POST-LIST:END -->
+============================================================
+GITHUB DASHBOARD
+============================================================
 
----
+Create dashboard cards for:
 
-# ✍ Random Developer Quote
+- Repositories
+- Followers
+- Stars
+- Contributions
+- Top Languages
+- Activity
 
-<div align="center">
+IMPORTANT:
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+Never invent numeric values.
 
-</div>
+Use dynamic GitHub endpoints wherever possible.
 
----
+GitHub username:
 
-# 🌍 Open Source
+shekharkrkarn
 
-```text
-✔ Love building useful software
+If a dynamic API cannot be safely embedded,
+display the metric label without a fabricated number.
 
-✔ Learning every day
 
-✔ Open for collaboration
+============================================================
+06 — PROJECTS
+============================================================
 
-✔ Interested in Open Source Projects
+Create a premium project table/card grid.
 
-✔ Passionate about solving real-world problems
-```
+PROJECT 01:
+Smart Weather Forecast System
 
----
+Description:
+Real-time weather application with alerts, AQI, maps and forecasts.
 
-# 🏅 Achievements
+Stack:
+Java • MySQL • HTML • CSS • JavaScript
 
-🏆 Full Stack Developer
+Repository:
+https://github.com/shekharkrkarn/Smart-Weather-Forecast-System
 
-💻 Java Developer
 
-🐍 Python Developer
+PROJECT 02:
+JARVIS AI Assistant
 
-🌐 Web Developer
+Description:
+Voice-controlled AI desktop assistant with automation.
 
-🤖 AI Enthusiast
+Stack:
+Python • AI APIs
 
-🔗 Blockchain Learner
+Repository:
+https://github.com/shekharkrkarn/JARVIS-AI
 
-🚀 Lifelong Learner
 
----
+PROJECT 03:
+Inventory Management System
 
-# 📬 Connect With Me
+Description:
+Stock & sales management web application.
 
-<div align="center">
+Stack:
+PHP • MySQL • Bootstrap
 
-<a href="https://www.linkedin.com/in/shekharkumarkarn">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
-<a href="https://x.com/Shekharkrkarn">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
+PROJECT 04:
+Developer Portfolio
 
-<a href="mailto:shekharkumarkarn02@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+Description:
+Responsive personal portfolio website.
 
-<a href="https://www.instagram.com/shekharkrkarn">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+Stack:
+React • Tailwind CSS
 
-<a href="https://developer-portfolio-1047103629900.asia-southeast1.run.app">
-<img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+Portfolio:
+https://developer-portfolio-1047103629900.asia-southeast1.run.app
 
-</div>
 
----
+For projects without a confirmed repository URL:
 
-# 💙 Thanks for Visiting!
+DO NOT invent one.
 
-<div align="center">
+Use a "View Project" or "Project Details" button only if an actual
+URL is available.
 
-### ⭐ If you like my work, don't forget to Star ⭐ my repositories.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=130&section=footer"/>
+============================================================
+07 — 3D CONTRIBUTION CITY
+============================================================
 
-</div>
+Integrate:
 
-# 🏅 Coding Profiles
+yoshi389111/github-profile-3d-contrib
 
-<div align="center">
+Create a futuristic night city generated from GitHub contributions.
 
-<a href="https://leetcode.com/u/shekharkrkarn/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+Visual concept:
 
-<a href="https://www.hackerrank.com/profile/shekharkrkarn">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+- dark skyline
+- glowing windows
+- buildings representing contribution intensity
+- cyberpunk atmosphere
+- neon accents
+- animated city lighting
 
-<a href="https://www.codechef.com/users/shekharkrkarn">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
+Create the GitHub Actions workflow required to refresh the contribution
+city.
 
-</div>
+Do not fabricate contribution numbers.
 
----
 
-# 🚀 Featured Repository
+============================================================
+08 — CODING PROFILES
+============================================================
 
-<div align="center">
+Create animated cards for:
 
-<a href="https://github.com/shekharkrkarn/JARVIS-AI">
+LeetCode
+HackerRank
+CodeChef
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shekharkrkarn&repo=JARVIS-AI&theme=tokyonight&hide_border=true"/>
+Use their real URLs.
 
-</a>
+Add:
 
-<a href="https://github.com/shekharkrkarn/Smart-Weather-Forecast-System">
+- brand icon
+- glass card
+- neon border
+- hover effect
+- arrow animation
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shekharkrkarn&repo=Smart-Weather-Forecast-System&theme=tokyonight&hide_border=true"/>
 
-</a>
+============================================================
+09 — CONNECT FOOTER
+============================================================
 
-</div>
+Create a futuristic "LET'S CONNECT" footer.
 
----
+Include:
 
-# 📦 More Projects
+GitHub
+LinkedIn
+X
+Instagram
+Email
+Portfolio
+LeetCode
+HackerRank
+CodeChef
 
-<div align="center">
+Use actual URLs supplied above.
 
-<a href="https://github.com/shekharkrkarn">
+Create:
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shekharkrkarn&repo=Inventory-Management-System&theme=tokyonight&hide_border=true"/>
+- glass cards
+- neon borders
+- brand icons
+- animated arrows
+- hover glow
+- entrance animation
 
-</a>
+Footer message:
 
-<a href="https://github.com/shekharkrkarn">
+"Building, learning and exploring one project at a time."
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shekharkrkarn&repo=Developer-Portfolio&theme=tokyonight&hide_border=true"/>
+You may improve this line while preserving the meaning.
 
-</a>
 
-</div>
+============================================================
+CHARACTER / AVATAR
+============================================================
 
----
+The reference design may contain a developer character.
 
-# 🌎 Visitor Map
+If no personal character image is supplied:
 
-<div align="center">
+DO NOT claim the generated character is an exact portrait of me.
 
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+Instead create a stylized generic developer avatar OR leave the avatar
+area abstract/futuristic.
 
-</div>
+If I later provide my image, make the design ready to replace the
+generic avatar with my actual image.
 
----
 
-# 📈 GitHub Metrics
+============================================================
+FILES TO GENERATE
+============================================================
 
-<div align="center">
+Create:
 
-<img src="https://metrics.lecoq.io/shekharkrkarn?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&followup=1&activity=1&achievements=1&introduction=1&people=1&lines=1&repositories=1&stars=1&theme=tokyonight"/>
+1. hero.svg
+2. about-life.svg
+3. stack.svg
+4. id-dashboard.svg
+5. connect.svg
+6. README.md
+7. .github/workflows/github-profile-3d.yml
 
-</div>
 
----
+============================================================
+HERO.SVG
+============================================================
 
-# 📚 Currently Exploring
+Create a self-contained SVG.
 
-<table>
+If I provide a personal video:
 
-<tr>
+- extract frames
+- convert frames to base64 JPEG
+- embed them directly
+- animate with SMIL
+- approximately 4-second loop
+- hold final frame
+- fade
+- repeat
 
-<td>🤖 Artificial Intelligence</td>
+Create:
 
-<td>☁ Cloud Computing</td>
+- camera viewfinder
+- REC indicator
+- filename
+- scrubber
+- animated introduction
+- gradient name
+- cycling roles
+- profile metadata
 
-</tr>
 
-<tr>
+============================================================
+ABOUT-LIFE.SVG
+============================================================
 
-<td>🧠 Machine Learning</td>
+Create:
 
-<td>⚛ React Ecosystem</td>
+LEFT CARD:
+What I Build
 
-</tr>
+RIGHT CARD:
+Developer Interests
 
-<tr>
+Use:
 
-<td>🔗 Blockchain</td>
+- browser mockup
+- URL bar
+- blinking cursor
+- capability rows
+- progress bars
+- carousel
+- animated rings
 
-<td>☕ Spring Boot</td>
 
-</tr>
+============================================================
+STACK.SVG
+============================================================
 
-<tr>
+Create:
 
-<td>🐳 Docker</td>
+- 3 elliptical orbits
+- animated technology icons
+- glowing core
+- categorized tech chips
+- sequential glow
+- smooth orbital movement
 
-<td>⚡ REST APIs</td>
 
-</tr>
+============================================================
+ID-DASHBOARD.SVG
+============================================================
 
-</table>
+Create:
 
----
+- holographic ID
+- lanyard
+- animated clasp
+- chip
+- barcode
+- light sweep
+- GitHub dashboard
+- KPI cards
+- language chart
+- activity section
 
-# 📖 Latest Blog Posts
+No fabricated numerical data.
 
-<!-- BLOG-POST-LIST:START -->
 
-- Coming Soon...
+============================================================
+CONNECT.SVG
+============================================================
 
-<!-- BLOG-POST-LIST:END -->
+Create:
 
----
+- futuristic footer
+- social cards
+- coding profile cards
+- portfolio card
+- email card
+- animated arrows
+- neon hover effects
 
-# 💬 Favorite Quote
 
-> **"First, solve the problem. Then, write the code." – John Johnson**
+============================================================
+README.MD
+============================================================
 
----
+Combine all SVG sections into one polished README.
 
-# ⚡ Fun Facts
+Recommended order:
 
-- 💻 I love solving coding challenges.
-- 🚀 I enjoy building real-world applications.
-- 📚 I learn something new every day.
-- 🌍 I believe consistency beats talent.
-- ☕ Coffee + Code = Productivity.
+Hero
 
----
+↓
+What I Build
 
-# 📊 Profile Highlights
+↓
+Developer Interests
 
-✔ Full Stack Developer
+↓
+Tech Orbit
 
-✔ Java Developer
+↓
+ID Badge + GitHub Dashboard
 
-✔ Python Developer
+↓
+Projects
 
-✔ React Learner
+↓
+3D Contribution City
 
-✔ Spring Boot Enthusiast
+↓
+Coding Profiles
 
-✔ AI Explorer
+↓
+Connect Footer
 
-✔ Blockchain Learner
 
-✔ Open Source Contributor
+Use cache busting:
 
----
+?v=1
 
-# 🤝 Let's Collaborate
+When updating:
 
-I'm always interested in collaborating on:
+?v=2
 
-- 🌐 Full Stack Projects
-- 🤖 AI Applications
-- 🔗 Blockchain Projects
-- ☁ Cloud-Based Solutions
-- 🚀 Open Source Contributions
+etc.
 
-Feel free to connect with me!
 
----
+============================================================
+GITHUB COMPATIBILITY
+============================================================
 
-<div align="center">
+GitHub removes JavaScript from README rendering.
 
-## ⭐ Thank You for Visiting My Profile ⭐
+Therefore use:
 
-### 💙 Happy Coding!
+- SVG
+- CSS
+- SMIL
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=150&section=footer"/>
+Do not depend on JavaScript.
 
-</div>
+Do not load external JavaScript.
+
+Inline assets wherever practical.
+
+Use base64 for fonts and images where appropriate.
+
+Use PNG/JPEG instead of WebP for embedded raster assets.
+
+Namespace SVG IDs.
+
+Provide fallback states for animations.
+
+Ensure static rendering still looks complete if animation is ignored.
+
+
+============================================================
+ANIMATION SYSTEM
+============================================================
+
+Use:
+
+- SMIL
+- CSS animations
+- opacity
+- transforms
+- stroke-dasharray
+- stroke-dashoffset
+- gradient animation
+- orbital movement
+- pulse
+- fade
+- slide
+- glow
+- scanner lines
+
+Keep animations smooth and professional.
+
+Do not over-animate every element.
+
+Create visual hierarchy.
+
+
+============================================================
+RESPONSIVE DESIGN
+============================================================
+
+The README must remain readable on:
+
+- desktop
+- laptop
+- tablet
+- mobile
+
+Avoid extremely wide layouts that become unreadable.
+
+Use reasonable SVG dimensions.
+
+Keep text legible.
+
+
+============================================================
+QUALITY CONTROL
+============================================================
+
+Before returning the final implementation:
+
+1. Validate all SVG files.
+2. Check XML syntax.
+3. Check SVG namespaces.
+4. Check duplicate IDs.
+5. Check broken references.
+6. Check external URLs.
+7. Check GitHub links.
+8. Check project links.
+9. Check social links.
+10. Check animation timelines.
+11. Check fallback states.
+12. Check README rendering.
+13. Check GitHub Actions YAML.
+14. Check 3D contribution workflow.
+15. Check for fake statistics.
+16. Check for invented URLs.
+17. Check mobile readability.
+18. Render each SVG in a browser.
+19. Inspect animation at multiple timestamps.
+20. Fix clipping, overflow and alignment issues.
+
+============================================================
+FINAL OUTPUT
+============================================================
+
+Do not only explain the implementation.
+
+Actually generate the complete implementation.
+
+Return:
+
+README.md
+
+hero.svg
+
+about-life.svg
+
+stack.svg
+
+id-dashboard.svg
+
+connect.svg
+
+.github/workflows/github-profile-3d.yml
+
+Also provide:
+
+- exact folder structure
+- setup instructions
+- GitHub upload instructions
+- GitHub Actions instructions
+- how to update cache-busting versions
+- how to replace the avatar later
+- how to update GitHub statistics
+
+The finished profile should be ready to upload to:
+
+https://github.com/shekharkrkarn
+
+============================================================
+FINAL DESIGN TARGET
+============================================================
+
+The final result should feel like:
+
+"Shekhar Kumar — Futuristic Animated Developer Portfolio"
+
+It should combine:
+
+- Professional developer branding
+- Premium midnight-glass UI
+- Animated SVG graphics
+- GitHub statistics
+- Tech orbit
+- Holographic developer ID
+- Project showcase
+- 3D contribution city
+- Coding profiles
+- Social connections
+
+Make it visually impressive, technically clean,
+GitHub-compatible and professional.
+
+Most importantly:
+
+USE MY REAL PROFILE INFORMATION WHERE AVAILABLE.
+
+ONLY GENERATE MISSING NON-SENSITIVE CONTENT WHEN NECESSARY.
+
+NEVER FABRICATE GITHUB DATA, REPOSITORIES, ACHIEVEMENTS,
+EMPLOYMENT, CERTIFICATIONS OR LINKS.
