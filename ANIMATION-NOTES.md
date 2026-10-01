@@ -16,7 +16,3 @@ Files:
 - assets/profile-photo.png
 
 The profile photo in the animations was cropped from the screenshot supplied in the conversation.
-
-
-### Photo update
-The hero and connect animations now use the supplied Shekhar Kumar developer image, cropped to a circular profile portrait.
