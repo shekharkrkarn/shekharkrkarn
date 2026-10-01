@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620">
+<defs><radialGradient id="c"><stop stop-color="#22d3ee"/><stop offset=".35" stop-color="#a78bfa" stop-opacity=".6"/><stop offset="1" stop-color="#0d0e16" stop-opacity="0"/></radialGradient><linearGradient id="g"><stop stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+<rect width="1200" height="620" rx="28" fill="#0d0e16"/>
+<circle cx="600" cy="285" r="210" fill="url(#c)"/>
+<text x="60" y="65" fill="#22d3ee" font-family="monospace" font-size="12">03 // TECH ORBIT</text>
+<text x="60" y="105" fill="#f8fafc" font-family="Arial" font-size="34" font-weight="700">My Technology Stack</text>
+<g fill="none" stroke="url(#g)" opacity=".45">
+<ellipse cx="600" cy="285" rx="470" ry="115"/><ellipse cx="600" cy="285" rx="390" ry="175" transform="rotate(28 600 285)"/><ellipse cx="600" cy="285" rx="300" ry="235" transform="rotate(-28 600 285)"/>
+</g>
+<g fill="#0d0e16" stroke="#22d3ee" stroke-opacity=".7">
+<circle cx="600" cy="285" r="75"/><circle cx="130" cy="285" r="26"/><circle cx="870" cy="120" r="26"/><circle cx="920" cy="420" r="26"/><circle cx="390" cy="105" r="26"/><circle cx="340" cy="455" r="26"/>
+</g>
+<g font-family="monospace" font-size="12" text-anchor="middle" fill="#e2e8f0">
+<text x="600" y="280" font-size="16" fill="#22d3ee">FULL STACK</text><text x="600" y="300">CORE</text>
+<text x="130" y="289">JAVA</text><text x="870" y="124">REACT</text><text x="920" y="424">PYTHON</text><text x="390" y="109">SPRING</text><text x="340" y="459">MYSQL</text>
+</g>
+<g transform="translate(75 535)" font-family="monospace" font-size="12">
+<rect width="1050" height="44" rx="12" fill="#111522" stroke="#334155"/>
+<text x="20" y="27" fill="#22d3ee">LANGUAGES</text><text x="120" y="27" fill="#cbd5e1">Java • Python • PHP • JavaScript</text><text x="410" y="27" fill="#a78bfa">FRONTEND</text><text x="500" y="27" fill="#cbd5e1">React • Tailwind • Bootstrap</text><text x="790" y="27" fill="#f472b6">DATA</text><text x="850" y="27" fill="#cbd5e1">MySQL</text>
+</g>
+<g>
+<circle cx="130" cy="285" r="26" fill="none" stroke="#22d3ee"><animateTransform attributeName="transform" type="rotate" from="0 600 285" to="360 600 285" dur="18s" repeatCount="indefinite"/></circle>
+</g>
+</svg>
